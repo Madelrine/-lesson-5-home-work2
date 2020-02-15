@@ -1,0 +1,20 @@
+table{
+	border:5px solid #000;
+	width: 700px;
+	height: 600px;
+	text-align: center;
+}
+td{
+	background-color: #4B7CBC;
+	color:#fff;
+	font-size: 40px;
+}
+
+.size{
+	width: 20%;
+	height: 300px;
+}
+.sizes{
+	width: 10%;
+	height: 200px;
+}
